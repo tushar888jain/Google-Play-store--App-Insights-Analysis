@@ -194,10 +194,6 @@ Business Impact: Utility categories that solve a narrow, functional need (dating
 This analysis of 9,659 Google Play Store apps and 29,692 user reviews shows that app success on the platform is driven far more by category positioning, content strategy, and consistent quality than by price or install volume alone. Games, Communication, and Tools command the largest audiences, a 4.2 rating is the realistic bar for competitiveness, and user sentiment closely tracks star ratings, confirming that satisfaction signals in this dataset are reliable. The strongest opportunity for a new entrant lies in niche, high-satisfaction categories like Events, Books and Reference, and Education, where users are already primed to rate generously, while categories like Dating and Maps and Navigation carry higher execution risk.
 
 *This analysis and report were prepared with the assistance of a generative AI tool (Claude) for data cleaning, statistical computation, under the direction and review of the analyst.*
-<img width="617" height="345" alt="OVERVIEW" src="https://github.com/user-attachments/assets/e687757e-0c28-4f9f-92cc-399b521d6e51" />
-<img width="618" height="336" alt="RATINGS AND QUALITY" src="https://github.com/user-attachments/assets/0cd02535-7dac-492c-99d6-2929010adc45" />
-<img width="618" height="341" alt="PRICING AND SIZE" src="https://github.com/user-attachments/assets/af488ae0-4990-4f74-bbe1-432c38d41844" />
-<img width="620" height="341" alt="SENTIMENT AND INSIGHTS" src="https://github.com/user-attachments/assets/7db70bf1-8a19-4912-9ee9-f1a1e74b5ee0" />
 
 
 
