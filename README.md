@@ -17,7 +17,7 @@ Built an interactive Power BI dashboard to make the analysis explorable
 
 # Tools Used
 
-Excel / Power Query for data cleaning, Power BI for the interactive dashboard, and Python for sentiment analysis support.
+Excel / Power Query for data cleaning, Power BI for the interactive dashboard  And Gen AI for sentiment analysis support.
 
 Full findings and business impact are covered in the complete project report.
 
